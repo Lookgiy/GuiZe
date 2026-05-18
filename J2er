@@ -1,3 +1,4 @@
+# NAME: 2ers
 DOMAIN-SUFFIX,tver.jp
 DOMAIN-SUFFIX,firebaseinstallations.googleapis.com
 DOMAIN-SUFFIX,firebaseremoteconfig.googleapis.com
@@ -5,3 +6,12 @@ DOMAIN-SUFFIX,imasdk.googleapis.com
 DOMAIN-SUFFIX,streaks.jp
 DOMAIN-SUFFIX,ultraimpression.jp
 DOMAIN-SUFFIX,play.jp
+
+# NAME: dm
+DOMAIN-SUFFIX,dmm.co.jp
+DOMAIN-SUFFIX,video.dmm.co.jp
+DOMAIN-SUFFIX,dmm.com
+DOMAIN-SUFFIX,navismithapis-cdn.com
+DOMAIN-SUFFIX,navismithapis.com
+DOMAIN-SUFFIX,p-smith.com
+DOMAIN-SUFFIX,tv.dmm.com
