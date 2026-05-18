@@ -1,0 +1,5 @@
+DOMAIN-SUFFIX,fengshows.com
+DOMAIN-SUFFIX,api.fengshows.cn
+DOMAIN-SUFFIX,q1.fengshows.com
+DOMAIN-SUFFIX,q2.fengshows.com
+DOMAIN-SUFFIX,m.fengshows.com
