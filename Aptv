@@ -1,0 +1,13 @@
+# 域名规则
+DOMAIN-SUFFIX,tv.apple.com
+DOMAIN-SUFFIX,apple.com.akadns.net
+DOMAIN-SUFFIX,aaplimg.com
+DOMAIN-SUFFIX,apple.com
+
+# 或者更精确地只代理 Apple TV 相关域名
+DOMAIN,tv.apple.com
+DOMAIN,hls-svod.itunes.apple.com
+DOMAIN,hls-svod-ve.itunes.g.aaplimg.com
+DOMAIN,hls-svod-aoc-ve.itunes.g.aaplimg.com
+DOMAIN,vod-ap1-aoc.tv.apple.com
+DOMAIN,tv.g.apple.com
