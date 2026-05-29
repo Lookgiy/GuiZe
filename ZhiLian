@@ -1,4 +1,7 @@
 #直连
+#OldBeijing
+DOMAIN-SUFFIX,obj.cc
+
 #javlib
 DOMAIN-SUFFIX,c97k.com
 DOMAIN-KEYWORD,cilisousuo
