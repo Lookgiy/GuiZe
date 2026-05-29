@@ -13,3 +13,5 @@ HOST-SUFFIX,imasdk.googleapis.com,TVer
 HOST-SUFFIX,streaks.jp,TVer
 HOST-SUFFIX,ultraimpression.jp,TVer
 HOST-SUFFIX,tplay.jp,TVer
+#YahooJP
+HOST-SUFFIX,trilltrill.jp,Yahoo
