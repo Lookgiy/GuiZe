@@ -87,3 +87,8 @@ DOMAIN-SUFFIXv.rn260.xyz,
 DOMAIN-SUFFIX,plyr.io
 DOMAIN-SUFFIX,alonestreaming.com
 DOMAIN-WILDCARD,*.mushroomtrack.com
+
+#Linux DO
+DOMAIN-SUFFIX,cdn.ldstatic.com
+DOMAIN-SUFFIX,cdn3.ldstatic.com
+DOMAIN-SUFFIX,ldstatic.com
