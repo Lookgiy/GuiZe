@@ -92,3 +92,6 @@ DOMAIN-WILDCARD,*.mushroomtrack.com
 DOMAIN-SUFFIX,cdn.ldstatic.com
 DOMAIN-SUFFIX,cdn3.ldstatic.com
 DOMAIN-SUFFIX,ldstatic.com
+
+#V2ex
+DOMAIN-SUFFIX,esm.sh
