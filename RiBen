@@ -63,3 +63,6 @@ DOMAIN-SUFFIX,vod-abematv.akamaized.net
 #Linux Do
 DOMAIN-SUFFIX,linux.do
 DOMAIN-SUFFIX,stripe.network
+
+#V2ex
+DOMAIN-SUFFIX,v2ex.com
