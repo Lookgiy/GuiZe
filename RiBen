@@ -1,18 +1,22 @@
-#日本
-#色华堂
+# 日本
+
+# 色华堂
 DOMAIN-SUFFIX,sehuatang.org
 DOMAIN-SUFFIX,ldkms.la
 DOMAIN-SUFFIX,j03og.app
 DOMAIN-SUFFIX,ymawv.la
-#91pinse
+
+# 91pinse
 DOMAIN-WILDCARD,*.91pinse.com
 DOMAIN-SUFFIX,91pinse.com
 DOMAIN-WILDCARD,*.fplayer.cc
-#rou
+# rou
 DOMAIN-SUFFIX,rou.video
-#jable
+
+# jable
 DOMAIN-SUFFIX,jable.tv
-#TVers
+
+# TVers
 DOMAIN-SUFFIX,tver.jp
 DOMAIN-SUFFIX,firebaseinstallations.googleapis.com
 DOMAIN-SUFFIX,firebaseremoteconfig.googleapis.com
@@ -20,7 +24,8 @@ DOMAIN-SUFFIX,imasdk.googleapis.com
 DOMAIN-SUFFIX,streaks.jp
 DOMAIN-SUFFIX,ultraimpression.jp
 DOMAIN-SUFFIX,play.jp
-#Dmm
+
+# Dmm
 DOMAIN-SUFFIX,dmm.co.jp
 DOMAIN-SUFFIX,video.dmm.co.jp
 DOMAIN-SUFFIX,dmm.com
@@ -28,7 +33,8 @@ DOMAIN-SUFFIX,navismithapis-cdn.com
 DOMAIN-SUFFIX,navismithapis.com
 DOMAIN-SUFFIX,p-smith.com
 DOMAIN-SUFFIX,tv.dmm.com
-#AbemaTV
+
+# AbemaTV
 USER-AGENT,AbemaTV*
 DOMAIN-SUFFIX,abema-tv.com
 DOMAIN-SUFFIX,abema.io
@@ -45,7 +51,7 @@ DOMAIN-SUFFIX,hayabusa.dev
 DOMAIN-SUFFIX,hayabusa.io
 DOMAIN-SUFFIX,hayabusa.media
 DOMAIN-SUFFIX,winticket.jp
-#Abema TV CDN FQDN
+# AbemaTV CDN FQDN
 DOMAIN-SUFFIX,abematv.akamaized.net
 DOMAIN-SUFFIX,d1otoma47x30pg.cloudfront.net
 DOMAIN-SUFFIX,d2wy8f7a9ursnm.cloudfront.net
@@ -53,8 +59,10 @@ DOMAIN-SUFFIX,ds-linear-abematv.akamaized.net
 DOMAIN-SUFFIX,ds-vod-abematv.akamaized.net
 DOMAIN-SUFFIX,linear-abematv.akamaized.net
 DOMAIN-SUFFIX,vod-abematv.akamaized.net
-#Linux Do
+
+# Linux Do
 DOMAIN-SUFFIX,linux.do
 DOMAIN-SUFFIX,stripe.network
-#V2ex
+
+# V2ex
 DOMAIN-SUFFIX,v2ex.com
