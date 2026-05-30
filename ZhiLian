@@ -1,12 +1,16 @@
 #直连
+
 #OldBeijing
 DOMAIN-SUFFIX,obj.cc
+
 #javlib
 DOMAIN-SUFFIX,c97k.com
 DOMAIN-KEYWORD,cilisousuo
+
 #91pinse 
 DOMAIN-SUFFIX,456311.xyz
 DOMAIN-SUFFIX,jfly.xyz
+
 #Rou视频
 DOMAIN-SUFFIX,v.rn190.xyz
 DOMAIN-SUFFIX,v.rn191.xyz
@@ -78,14 +82,17 @@ DOMAIN-SUFFIX,v.rn256.xyz
 DOMAIN-SUFFIX,v.rn257.xyz
 DOMAIN-SUFFIX,v.rn258.xyz
 DOMAIN-SUFFIX,v.rn259.xyz
-DOMAIN-SUFFIXv.rn260.xyz,
+DOMAIN-SUFFIXv.rn260.xyz
+
 #jable
 DOMAIN-SUFFIX,plyr.io
 DOMAIN-SUFFIX,alonestreaming.com
 DOMAIN-WILDCARD,*.mushroomtrack.com
+
 #Linux DO
 DOMAIN-SUFFIX,cdn.ldstatic.com
 DOMAIN-SUFFIX,cdn3.ldstatic.com
 DOMAIN-SUFFIX,ldstatic.com
+
 #V2ex
 DOMAIN-SUFFIX,esm.sh
