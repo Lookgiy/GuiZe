@@ -1,0 +1,44 @@
+# NAME: BBC
+HOST,aod-dash-uk-live.akamaized.net,英国
+HOST,aod-hls-uk-live.akamaized.net,英国
+HOST,as-dash-uk-live.akamaized.net,英国
+HOST,as-hls-uk-live.akamaized.net,英国
+HOST,vod-dash-uk-live.akamaized.net,英国
+HOST,vod-dash-ww-live.akamaized.net,英国
+HOST,vod-hls-uk-live.akamaized.net,英国
+HOST,vod-sub-uk-live.akamaized.net,英国
+HOST,vod-thumb-uk-live.akamaized.net,英国
+HOST,vod-thumb-ww-live.akamaized.net,英国
+HOST,vs-cmaf-push-uk-live.akamaized.net,英国
+HOST-SUFFIX,bbc,英国
+HOST-SUFFIX,bbc.co,英国
+HOST-SUFFIX,bbc.co.uk,英国
+HOST-SUFFIX,bbc.com,英国
+HOST-SUFFIX,bbc.in,英国
+HOST-SUFFIX,bbc.net.uk,英国
+HOST-SUFFIX,bbcchinese.com,英国
+HOST-SUFFIX,bbcfmt.hs.llnwd.net,英国
+HOST-SUFFIX,bbcfmt.s.llnwi.net,英国
+HOST-SUFFIX,bbci.co,英国
+HOST-SUFFIX,bbci.co.uk,英国
+HOST-SUFFIX,bbcmedia.co.uk,英国
+HOST-SUFFIX,bbcpersian.com,英国
+HOST-SUFFIX,bbcverticals.com,英国
+HOST-SUFFIX,bidi.net.uk,英国
+HOST-KEYWORD,bbcfmt,英国
+HOST-KEYWORD,uk-live,英国
+USER-AGENT,BBCiPlayer*,英国
+
+# NAME: ITV
+HOST,itvpnpmobile-a.akamaihd.net,英国
+HOST-SUFFIX,itv.com,英国
+HOST-SUFFIX,itvstatic.com,英国
+USER-AGENT,ITV_Player*,英国
+USER-AGENT,ITVX*,英国
+
+# NAME: 电台
+HOST-SUFFIX,revma.com,英国
+
+# NAME: 播客
+HOST-SUFFIX,firstory.me,英国
+
