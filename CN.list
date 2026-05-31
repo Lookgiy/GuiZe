@@ -3800,6 +3800,5 @@ USER-AGENT,MicroMessenger*,WeChat
 USER-AGENT,WeChat*,WeChat
 IP-ASN,132203,WeChat
 
-
 # NAME: Apple
 HOST-SUFFIX,apple.com,Apple
