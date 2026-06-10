@@ -202,3 +202,11 @@ USER-AGENT,com.google.ios.youtubemusic*
 IP-CIDR,172.110.32.0/21,no-resolve
 IP-CIDR,216.73.80.0/20,no-resolve
 IP-CIDR,2620:120:e000::/40,no-resolve
+
+
+# NAME: Tubi
+DOMAIN-SUFFIX,tubi.io
+DOMAIN-SUFFIX,tubi.tv
+DOMAIN-SUFFIX,tubi.video
+DOMAIN-SUFFIX,tubitv.com
+DOMAIN-KEYWORD,tubi
