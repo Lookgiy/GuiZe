@@ -210,13 +210,3 @@ DOMAIN-SUFFIX,tubi.tv
 DOMAIN-SUFFIX,tubi.video
 DOMAIN-SUFFIX,tubitv.com
 DOMAIN-KEYWORD,tubi
-
-# NAME: PlutoTV
-DOMAIN-SUFFIX,pluto.tv
-DOMAIN-SUFFIX,cbsi.com
-DOMAIN-SUFFIX,cookielaw.org
-DOMAIN-SUFFIX,jsdelivr.net
-DOMAIN-SUFFIX,paramount.com
-DOMAIN-SUFFIX,plutotv.net
-DOMAIN-SUFFIX,tiqcdn.com
-DOMAIN-KEYWORD,pluto
