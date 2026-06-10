@@ -204,9 +204,19 @@ IP-CIDR,216.73.80.0/20,no-resolve
 IP-CIDR,2620:120:e000::/40,no-resolve
 
 
-# NAME: Tubi
+# NAME: TubiTV
 DOMAIN-SUFFIX,tubi.io
 DOMAIN-SUFFIX,tubi.tv
 DOMAIN-SUFFIX,tubi.video
 DOMAIN-SUFFIX,tubitv.com
 DOMAIN-KEYWORD,tubi
+
+# NAME: PlutoTV
+DOMAIN-SUFFIX,pluto.tv
+DOMAIN-SUFFIX,cbsi.com
+DOMAIN-SUFFIX,cookielaw.org
+DOMAIN-SUFFIX,jsdelivr.net
+DOMAIN-SUFFIX,paramount.com
+DOMAIN-SUFFIX,plutotv.net
+DOMAIN-SUFFIX,tiqcdn.com
+DOMAIN-KEYWORD,pluto
