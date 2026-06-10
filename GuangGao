@@ -10,8 +10,3 @@ DOMAIN-SUFFIX,tracking.fox.com
 DOMAIN-SUFFIX,scache.fox.com
 DOMAIN-SUFFIX,fwmrm.net
 DOMAIN-SUFFIX,pubmatic.com
-#如果提示“网络错误”或无限转圈，请放行以下 4 个域名
-DOMAIN-SUFFIX,config.production-public.tubi.io
-DOMAIN-SUFFIX,rainmaker.production-public.tubi.io
-DOMAIN-SUFFIX,s.adrise.tv
-DOMAIN-SUFFIX,license.adrise.tv
