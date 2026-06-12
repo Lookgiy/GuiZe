@@ -237,9 +237,17 @@ DOMAIN-KEYWORD,pluto
 DOMAIN-KEYWORD,plutotv
 
 # NAME: TVB
-DOMAIN-SUFFIX,tvbaw-na.s3.us-west-1.amazonaws.com
-DOMAIN-SUFFIX,tvbaw-cdn77.s3.us-west-2.amazonaws.com
-DOMAIN-SUFFIX,tvbaw.com
-DOMAIN-SUFFIX,tvbanywherena.com
-DOMAIN-SUFFIX,s3-us-west-1.amazonaws.com
+DOMAIN-SUFFIX,cf-images.us-east-1.prod.boltdns.net
+DOMAIN-SUFFIX,chimpstatic.com
+DOMAIN-SUFFIX,d37d56ysvky6vg.cloudfront.net
+DOMAIN-SUFFIX,edge.api.brightcove.com
+DOMAIN-SUFFIX,house-fastly-signed-us-east-1-prod.brightcovecdn.com
+DOMAIN-SUFFIX,img.tvbaw.com
+DOMAIN-SUFFIX,manifest.prod.boltdns.net
+DOMAIN-SUFFIX,maxcdn.bootstrapcdn.com
+DOMAIN-SUFFIX,players.brightcove.net
 DOMAIN-SUFFIX,pmv4k0zsuc.execute-api.us-west-2.amazonaws.com
+DOMAIN-SUFFIX,s3-us-west-1.amazonaws.com
+DOMAIN-SUFFIX,tvbanywherena.com
+DOMAIN-SUFFIX,tvbaw-cdn77.s3.us-west-2.amazonaws.com
+DOMAIN-SUFFIX,tvbaw-na.s3.us-west-1.amazonaws.com
