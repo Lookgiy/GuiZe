@@ -74,6 +74,8 @@ DOMAIN-SUFFIX,ds-linear-abematv.akamaized.net
 DOMAIN-SUFFIX,ds-vod-abematv.akamaized.net
 DOMAIN-SUFFIX,linear-abematv.akamaized.net
 DOMAIN-SUFFIX,vod-abematv.akamaized.net
+DOMAIN-SUFFIX,realtime.p-c4-x.abema-tv.com
+DOMAIN-KEYWORD,abema-tv
 
 #Linux Do
 DOMAIN-SUFFIX,linux.do
