@@ -10,6 +10,13 @@ DOMAIN-SUFFIX,ed.jp
 DOMAIN-SUFFIX,gr.jp
 DOMAIN-SUFFIX,ad.jp
 
+# NAME: Nikkei
+DOMAIN-SUFFIX,nikkei.co.jp
+DOMAIN-SUFFIX,nikkei.com
+DOMAIN-SUFFIX,nikkei.jp
+DOMAIN-SUFFIX,cn.nikkei.com
+DOMAIN-KEYWORD,nikkei
+
 #色华堂
 DOMAIN-SUFFIX,sehuatang.org
 DOMAIN-SUFFIX,ldkms.la
