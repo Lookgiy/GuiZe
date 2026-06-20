@@ -11,11 +11,11 @@ DOMAIN-SUFFIX,gr.jp
 DOMAIN-SUFFIX,ad.jp
 
 # NAME: Nikkei
+DOMAIN-KEYWORD,nikkei
 DOMAIN-SUFFIX,nikkei.co.jp
 DOMAIN-SUFFIX,nikkei.com
 DOMAIN-SUFFIX,nikkei.jp
 DOMAIN-SUFFIX,cn.nikkei.com
-DOMAIN-KEYWORD,nikkei
 
 #色华堂
 DOMAIN-SUFFIX,sehuatang.org
@@ -24,6 +24,9 @@ DOMAIN-SUFFIX,j03og.app
 DOMAIN-SUFFIX,ymawv.la
 
 #91pinse
+DOMAIN-SUFFIX,456311.xyz
+DOMAIN-SUFFIX,fplayer.cc
+DOMAIN-SUFFIX,91pinse.com
 
 #rou
 DOMAIN-SUFFIX,rou.video
@@ -32,13 +35,7 @@ DOMAIN-SUFFIX,rou.video
 DOMAIN-SUFFIX,jable.tv
 
 #MissAV
-DOMAIN-SUFFIX,missav.ai
-DOMAIN-SUFFIX,missav.com
-DOMAIN-SUFFIX,missav.live
-DOMAIN-SUFFIX,missav.uno
-DOMAIN-SUFFIX,missav.vip
-DOMAIN-SUFFIX,missav123.com
-DOMAIN-SUFFIX,missav.ws
+DOMAIN-KEYWORD,,missav
 DOMAIN-SUFFIX,fourhoi.com
 DOMAIN-SUFFIX,nineyu.com
 DOMAIN-SUFFIX,plyr.io
@@ -66,6 +63,7 @@ DOMAIN-SUFFIX,tv.dmm.com
 
 #AbemaTV
 USER-AGENT,AbemaTV*
+DOMAIN-KEYWORD,abema
 DOMAIN-SUFFIX,abema-tv.com
 DOMAIN-SUFFIX,abema.io
 DOMAIN-SUFFIX,abema.tv
@@ -90,7 +88,6 @@ DOMAIN-SUFFIX,ds-vod-abematv.akamaized.net
 DOMAIN-SUFFIX,linear-abematv.akamaized.net
 DOMAIN-SUFFIX,vod-abematv.akamaized.net
 DOMAIN-SUFFIX,realtime.p-c4-x.abema-tv.com
-DOMAIN-KEYWORD,abema
 
 #Linux Do
 DOMAIN-SUFFIX,linux.do
