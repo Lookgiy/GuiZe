@@ -1,5 +1,4 @@
 #直连
-
 #OldBeijing
 DOMAIN-SUFFIX,obj.cc
 
@@ -8,6 +7,7 @@ DOMAIN-SUFFIX,c97k.com
 DOMAIN-KEYWORD,cilisousuo
 
 #91pinse
+DOMAIN-SUFFIX,jfly.xyz
 
 #Rou视频
 DOMAIN-SUFFIX,v.rn190.xyz
