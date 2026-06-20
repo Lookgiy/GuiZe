@@ -26,6 +26,7 @@ DOMAIN-SUFFIX,ymawv.la
 #91pinse
 DOMAIN-WILDCARD,*.91pinse.com
 DOMAIN-WILDCARD,*.fplayer.cc
+DOMAIN-SUFFIX,91pinse.com
 
 #rou
 DOMAIN-SUFFIX,rou.video
