@@ -74,7 +74,7 @@ DOMAIN-SUFFIX,hayabusa.dev
 DOMAIN-SUFFIX,hayabusa.io
 DOMAIN-SUFFIX,hayabusa.media
 DOMAIN-SUFFIX,winticket.jp
-#AbemaTV CDN FQDN
+#AbemaTV CDN
 DOMAIN-SUFFIX,abematv.akamaized.net
 DOMAIN-SUFFIX,d1otoma47x30pg.cloudfront.net
 DOMAIN-SUFFIX,d2wy8f7a9ursnm.cloudfront.net
