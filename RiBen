@@ -30,7 +30,7 @@ DOMAIN-SUFFIX,rou.video
 DOMAIN-SUFFIX,jable.tv
 
 #MissAV
-DOMAIN-KEYWORD,,missav
+DOMAIN-KEYWORD,missav
 DOMAIN-SUFFIX,fourhoi.com
 DOMAIN-SUFFIX,nineyu.com
 DOMAIN-SUFFIX,plyr.io
