@@ -41,4 +41,9 @@ USER-AGENT,BBCiPlayer*
 DOMAIN,itvpnpmobile-a.akamaihd.net
 DOMAIN-SUFFIX,itv.com
 DOMAIN-SUFFIX,itvstatic.com
+DOMAIN-SUFFIX,toots-a.akamaihd.net
+DOMAIN-SUFFIX,license.theoplayer.com
+DOMAIN-SUFFIX,images.ctfassets.net
+DOMAIN-SUFFIX,cscript-cdn-irl.cassiecloud.com
+DOMAIN-SUFFIX,license.theoplayer.com
 USER-AGENT,ITV_Player*
