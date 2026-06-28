@@ -84,6 +84,9 @@ DOMAIN-SUFFIX,plyr.io
 DOMAIN-SUFFIX,alonestreaming.com
 DOMAIN-WILDCARD,*.mushroomtrack.com
 
+#91Pinse
+DOMAIN-SUFFIX,jfly.xyz
+
 #Linux DO
 DOMAIN-SUFFIX,cdn.ldstatic.com
 DOMAIN-SUFFIX,cdn3.ldstatic.com
