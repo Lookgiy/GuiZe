@@ -36,6 +36,7 @@ DOMAIN-WILDCARD,*.mushroomtrack.com
 
 #91pinse
 DOMAIN-SUFFIX,fplayer.cc
+DOMAIN-SUFFIX,jfly.xyz
 
 #MissAV
 DOMAIN-KEYWORD,missav
