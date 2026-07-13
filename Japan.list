@@ -44,3 +44,15 @@ HOST-SUFFIX,yimg.jp,日本
 HOST-SUFFIX,yahoo.co.jp,日本
 HOST-SUFFIX,storage-yahoo.jp,日本
 HOST-SUFFIX,yahooapis.jp,日本
+
+#Linux Do
+HOST-SUFFIX,,linux.do,日本
+HOST-SUFFIX,,cdn.ldstatic.com,日本
+HOST-SUFFIX,,cdn3.ldstatic.com,日本
+HOST-SUFFIX,,ping.ldstatic.com,日本
+HOST-SUFFIX,,stripe.com,日本
+HOST-SUFFIX,,stripe.network,日本
+
+#V2ex
+HOST-SUFFIX,,v2ex.com,日本
+HOST-SUFFIX,,esm.sh,日本
