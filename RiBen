@@ -94,6 +94,10 @@ DOMAIN-SUFFIX,realtime.p-c4-x.abema-tv.com
 
 #Linux Do
 DOMAIN-SUFFIX,linux.do
+DOMAIN-SUFFIX,cdn.ldstatic.com
+DOMAIN-SUFFIX,cdn3.ldstatic.com
+DOMAIN-SUFFIX,ping.ldstatic.com
+DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,stripe.network
 
 #V2ex
