@@ -38,15 +38,6 @@ DOMAIN-WILDCARD,*.mushroomtrack.com
 DOMAIN-SUFFIX,fplayer.cc
 DOMAIN-SUFFIX,jfly.xyz
 
-#MissAV
-DOMAIN-KEYWORD,missav
-DOMAIN-SUFFIX,fourhoi.com
-DOMAIN-SUFFIX,nineyu.com
-DOMAIN-SUFFIX,plyr.io
-DOMAIN-SUFFIX,recombee.com
-DOMAIN-SUFFIX,cdnjs.cloudflare.com
-DOMAIN-SUFFIX,surrit.com
-
 #TVers
 DOMAIN-SUFFIX,tver.jp
 DOMAIN-SUFFIX,firebaseinstallations.googleapis.com
