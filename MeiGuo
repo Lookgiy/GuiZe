@@ -125,7 +125,3 @@ DOMAIN-SUFFIX,cdn3.ldstatic.com
 DOMAIN-SUFFIX,ping.ldstatic.com
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,stripe.network
-
-#V2ex
-DOMAIN-SUFFIX,v2ex.com
-DOMAIN-SUFFIX,esm.sh
