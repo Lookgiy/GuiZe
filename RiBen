@@ -79,15 +79,3 @@ DOMAIN-SUFFIX,ds-vod-abematv.akamaized.net
 DOMAIN-SUFFIX,linear-abematv.akamaized.net
 DOMAIN-SUFFIX,vod-abematv.akamaized.net
 DOMAIN-SUFFIX,realtime.p-c4-x.abema-tv.com
-
-#Linux Do
-DOMAIN-SUFFIX,linux.do
-DOMAIN-SUFFIX,cdn.ldstatic.com
-DOMAIN-SUFFIX,cdn3.ldstatic.com
-DOMAIN-SUFFIX,ping.ldstatic.com
-DOMAIN-SUFFIX,stripe.com
-DOMAIN-SUFFIX,stripe.network
-
-#V2ex
-DOMAIN-SUFFIX,v2ex.com
-DOMAIN-SUFFIX,esm.sh
