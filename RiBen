@@ -79,3 +79,7 @@ DOMAIN-SUFFIX,ds-vod-abematv.akamaized.net
 DOMAIN-SUFFIX,linear-abematv.akamaized.net
 DOMAIN-SUFFIX,vod-abematv.akamaized.net
 DOMAIN-SUFFIX,realtime.p-c4-x.abema-tv.com
+
+#V2ex
+DOMAIN-SUFFIX,v2ex.com
+DOMAIN-SUFFIX,esm.sh
