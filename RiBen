@@ -83,3 +83,7 @@ DOMAIN-SUFFIX,realtime.p-c4-x.abema-tv.com
 #V2ex
 DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,esm.sh
+
+#DiscussHK
+DOMAIN-SUFFIX,discuss.com.hk
+DOMAIN-SUFFIX,n2.hk
