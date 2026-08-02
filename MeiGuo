@@ -148,6 +148,7 @@ DOMAIN-SUFFIX,tvbaw-cdn77.s3.us-west-2.amazonaws.com
 DOMAIN-SUFFIX,tvbaw-na.s3.us-west-1.amazonaws.com
 DOMAIN-SUFFIX,now.amagi.tv
 DOMAIN-SUFFIX,encoretvb-faecb.firebaseapp.com
+DOMAIN-SUFFIX,akamai.tvb.com
 
 #MissAV
 DOMAIN-KEYWORD,missav
