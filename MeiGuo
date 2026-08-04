@@ -131,6 +131,13 @@ DOMAIN-SUFFIX,paramount.com
 DOMAIN-KEYWORD,pluto
 DOMAIN-KEYWORD,plutotv
 
+# NAME: MBC TV
+DOMAIN-SUFFIX,shd-gcp-live.edgenextcdn.net
+DOMAIN-SUFFIX,shahid.mbc.net
+
+# NAME: ALJA TV
+DOMAIN-SUFFIX,live-hls-web-aje-gcp.thehlive.com
+
 # NAME: TVB
 DOMAIN-SUFFIX,cf-images.us-east-1.prod.boltdns.net
 DOMAIN-SUFFIX,chimpstatic.com
