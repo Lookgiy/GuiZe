@@ -199,3 +199,10 @@ DOMAIN-SUFFIX,jfly.xyz
 
 #JavLibray
 DOMAIN-SUFFIX,pics.dmm.co.jp
+
+# NAME: Nikkei
+DOMAIN-KEYWORD,nikkei
+DOMAIN-SUFFIX,nikkei.co.jp
+DOMAIN-SUFFIX,nikkei.com
+DOMAIN-SUFFIX,nikkei.jp
+DOMAIN-SUFFIX,cn.nikkei.com
