@@ -21,19 +21,6 @@ DOMAIN-SUFFIX,nikkei.com
 DOMAIN-SUFFIX,nikkei.jp
 DOMAIN-SUFFIX,cn.nikkei.com
 
-#色华堂
-DOMAIN-SUFFIX,sehuatang.org
-DOMAIN-SUFFIX,ldkms.la
-DOMAIN-SUFFIX,j03og.app
-DOMAIN-SUFFIX,ymawv.la
-
-#rou
-DOMAIN-SUFFIX,rou.video
-
-#91pinse
-DOMAIN-SUFFIX,fplayer.cc
-DOMAIN-SUFFIX,jfly.xyz
-
 #TVers
 DOMAIN-SUFFIX,tver.jp
 DOMAIN-SUFFIX,firebaseinstallations.googleapis.com
@@ -79,11 +66,3 @@ DOMAIN-SUFFIX,ds-vod-abematv.akamaized.net
 DOMAIN-SUFFIX,linear-abematv.akamaized.net
 DOMAIN-SUFFIX,vod-abematv.akamaized.net
 DOMAIN-SUFFIX,realtime.p-c4-x.abema-tv.com
-
-#V2ex
-DOMAIN-SUFFIX,v2ex.com
-DOMAIN-SUFFIX,esm.sh
-
-#DiscussHK
-DOMAIN-SUFFIX,discuss.com.hk
-DOMAIN-SUFFIX,n2.hk
