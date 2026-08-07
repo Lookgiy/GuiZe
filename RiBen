@@ -14,13 +14,6 @@ DOMAIN-SUFFIX,com.tw
 DOMAIN-SUFFIX,org.tw
 DOMAIN-SUFFIX,net.tw
 
-# NAME: Nikkei
-DOMAIN-KEYWORD,nikkei
-DOMAIN-SUFFIX,nikkei.co.jp
-DOMAIN-SUFFIX,nikkei.com
-DOMAIN-SUFFIX,nikkei.jp
-DOMAIN-SUFFIX,cn.nikkei.com
-
 #TVers
 DOMAIN-SUFFIX,tver.jp
 DOMAIN-SUFFIX,firebaseinstallations.googleapis.com
