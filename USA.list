@@ -1038,3 +1038,15 @@ HOST-SUFFIX,reddituploads.com,美国
 HOST-SUFFIX,reddituploads.com.cdn-cf.behance.net,美国
 HOST-SUFFIX,reddituploads.com.cdn-cf.dropbox.com,美国
 USER-AGENT,Reddit*,美国
+
+#Linux Do
+HOST-SUFFIX,,linux.do,日本
+HOST-SUFFIX,,cdn.ldstatic.com,日本
+HOST-SUFFIX,,cdn3.ldstatic.com,日本
+HOST-SUFFIX,,ping.ldstatic.com,日本
+HOST-SUFFIX,,stripe.com,日本
+HOST-SUFFIX,,stripe.network,日本
+
+#V2ex
+HOST-SUFFIX,,v2ex.com,日本
+HOST-SUFFIX,,esm.sh,日本
