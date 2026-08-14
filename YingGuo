@@ -1,5 +1,4 @@
 #英国
-
 #广播
 DOMAIN-SUFFIX,revma.com
 
@@ -27,6 +26,7 @@ DOMAIN-SUFFIX,bbc.net.uk
 DOMAIN-SUFFIX,bbcchinese.com
 DOMAIN-SUFFIX,bbcfmt.hs.llnwd.net
 DOMAIN-SUFFIX,bbcfmt.s.llnwi.net
+HOST-SUFFIX,uk-script.dotmetrics.net
 DOMAIN-SUFFIX,bbci.co
 DOMAIN-SUFFIX,bbci.co.uk
 DOMAIN-SUFFIX,bbcmedia.co.uk
