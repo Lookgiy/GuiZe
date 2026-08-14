@@ -123,6 +123,7 @@ DOMAIN-SUFFIX,tubi.tv
 DOMAIN-SUFFIX,tubi.video
 DOMAIN-SUFFIX,tubitv.com
 DOMAIN-KEYWORD,tubi
+DOMAIN-KEYWORD,stats.g.doubleclick.net
 
 # NAME: plutoTV
 DOMAIN-SUFFIX,pluto.tv
@@ -131,10 +132,12 @@ DOMAIN-SUFFIX,cbsi.com
 DOMAIN-SUFFIX,paramount.com
 DOMAIN-KEYWORD,pluto
 DOMAIN-KEYWORD,plutotv
+DOMAIN-KEYWORD,tags.tiqcdn.com
 
 # NAME: MBC TV
 DOMAIN-SUFFIX,shd-gcp-live.edgenextcdn.net
 DOMAIN-SUFFIX,shahid.mbc.net
+DOMAIN-SUFFIX,s0.2mdn.net
 
 # NAME: ALJA TV
 DOMAIN-SUFFIX,live-hls-web-aje-gcp.thehlive.com
