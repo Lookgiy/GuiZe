@@ -26,6 +26,8 @@ HOST-SUFFIX,bbcmedia.co.uk,英国
 HOST-SUFFIX,bbcpersian.com,英国
 HOST-SUFFIX,bbcverticals.com,英国
 HOST-SUFFIX,bidi.net.uk,英国
+HOST-SUFFIX,bbc-reporting-api.app,英国
+HOST-SUFFIX,time.akamai.com,英国
 HOST-KEYWORD,bbcfmt,英国
 HOST-KEYWORD,uk-live,英国
 USER-AGENT,BBCiPlayer*,英国
