@@ -123,6 +123,7 @@ HOST-SUFFIX,tubi.io,美国
 HOST-SUFFIX,tubi.tv,美国
 HOST-SUFFIX,tubi.video,美国
 HOST-SUFFIX,tubitv.com,美国
+HOST-SUFFIX,stats.g.doubleclick.net,美国
 HOST-KEYWORD,tubi,美国
 
 # NAME: plutoTV
@@ -130,12 +131,14 @@ HOST-SUFFIX,pluto.tv,美国
 HOST-SUFFIX,plutotv.net,美国
 HOST-SUFFIX,cbsi.com,美国
 HOST-SUFFIX,paramount.com,美国
+HOST-SUFFIX,tags.tiqcdn.com,美国
 HOST-KEYWORD,pluto,美国
 HOST-KEYWORD,plutotv,美国
 
 # NAME: MBC TV
 HOST-SUFFIX,shd-gcp-live.edgenextcdn.net,美国
 HOST-SUFFIX,shahid.mbc.net,美国
+HOST-SUFFIX,s0.2mdn.net,美国
 
 # NAME: ALJA TV
 HOST-SUFFIX,live-hls-web-aje-gcp.thehlive.com,美国
