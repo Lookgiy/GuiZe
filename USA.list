@@ -12,6 +12,12 @@ HOST-KEYWORD,ttvnw,美国
 
 # NAME: Youtube
 HOST-KEYWORD,youtube,美国
+HOST-KEYWORD,google,美国
+HOST-SUFFIX,withgoogle.com,美国
+HOST-SUFFIX,google.com,美国
+HOST-SUFFIX,googleapis.com,美国
+HOST-SUFFIX,cdn.ampproject.org,美国
+HOST-SUFFIX,gstatic.com,美国
 HOST-SUFFIX,ggpht.cn,美国
 HOST-SUFFIX,ggpht.com,美国
 HOST-SUFFIX,googlevideo.com,美国
