@@ -33,6 +33,8 @@ DOMAIN-SUFFIX,bbcmedia.co.uk
 DOMAIN-SUFFIX,bbcpersian.com
 DOMAIN-SUFFIX,bbcverticals.com
 DOMAIN-SUFFIX,bidi.net.uk
+DOMAIN-SUFFIX,bbc-reporting-api.app
+DOMAIN-SUFFIX,time.akamai.com
 DOMAIN-KEYWORD,bbcfmt
 DOMAIN-KEYWORD,uk-live
 USER-AGENT,BBCiPlayer*
