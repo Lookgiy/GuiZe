@@ -10,47 +10,6 @@ HOST-SUFFIX,twitchcdn.net,美国
 HOST-SUFFIX,twitchsvc.net,美国
 HOST-KEYWORD,ttvnw,美国
 
-# NAME: Youtube
-HOST-KEYWORD,youtube,美国
-HOST-KEYWORD,google,美国
-HOST-SUFFIX,withgoogle.com,美国
-HOST-SUFFIX,google.com,美国
-HOST-SUFFIX,googleapis.com,美国
-HOST-SUFFIX,cdn.ampproject.org,美国
-HOST-SUFFIX,gstatic.com,美国
-HOST-SUFFIX,ggpht.cn,美国
-HOST-SUFFIX,ggpht.com,美国
-HOST-SUFFIX,googlevideo.com,美国
-HOST-SUFFIX,gvt1.com,美国
-HOST-SUFFIX,gvt2.com,美国
-HOST-SUFFIX,video.google.com,美国
-HOST-SUFFIX,wide-youtube.l.google.com,美国
-HOST-SUFFIX,withyoutube.com,美国
-HOST-SUFFIX,youtubeeducation.com,美国
-HOST-SUFFIX,youtubeembeddedplayer.googleapis.com,美国
-HOST-SUFFIX,youtubefanfest.com,美国
-HOST-SUFFIX,youtubegaming.com,美国
-HOST-SUFFIX,youtubego.co.id,美国
-HOST-SUFFIX,youtubego.co.in,美国
-HOST-SUFFIX,youtubego.com,美国
-HOST-SUFFIX,youtubego.com.br,美国
-HOST-SUFFIX,youtubego.id,美国
-HOST-SUFFIX,youtubego.in,美国
-HOST-SUFFIX,youtubei.googleapis.com,美国
-HOST-SUFFIX,youtubekids.com,美国
-HOST-SUFFIX,youtubemobilesupport.com,美国
-HOST-SUFFIX,yt.be,美国
-HOST-SUFFIX,ytimg.com,美国
-USER-AGENT,*YouTubeMusic*,美国
-USER-AGENT,*com.google.ios.youtubemusic*,美国
-USER-AGENT,*youtube*,美国
-USER-AGENT,YouTube*,美国
-USER-AGENT,YouTubeMusic*,美国
-USER-AGENT,com.google.ios.youtube*,美国
-USER-AGENT,com.google.ios.youtubemusic*,美国
-IP-CIDR,172.110.32.0/21,美国
-IP-CIDR,216.73.80.0/20,美国
-
 # NAME: Telegram
 HOST,api.imem.app,美国
 HOST,api.swiftgram.app,美国
