@@ -11,7 +11,8 @@ DOMAIN-SUFFIX,twitchsvc.net
 DOMAIN-KEYWORD,ttvnw
 
 # NAME: Youtube
-DOMAIN-KEYWORD,youtube
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,ggpht.cn
 DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,googlevideo.com
@@ -35,6 +36,7 @@ DOMAIN-SUFFIX,youtubekids.com
 DOMAIN-SUFFIX,youtubemobilesupport.com
 DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ytimg.com
+DOMAIN-KEYWORD,youtube
 USER-AGENT,*YouTubeMusic*
 USER-AGENT,*com.google.ios.youtubemusic*
 USER-AGENT,*youtube*
