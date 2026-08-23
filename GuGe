@@ -1,0 +1,94 @@
+# NAME: Google + YouTube (精简实用版)
+# 仅保留必要域名，去除杂项/已废弃/内部测试域名
+# 覆盖: Google核心服务 + YouTube + 广告/收购产品 + 基础设施
+# 1. 关键字规则 (覆盖所有含 google/youtube/blogspot/gmail的域名)
+DOMAIN-KEYWORD,google
+DOMAIN-KEYWORD,youtube
+DOMAIN-KEYWORD,blogspot
+DOMAIN-KEYWORD,gmail
+DOMAIN-KEYWORD,appspot
+DOMAIN-KEYWORD,recaptcha
+# 2. 基础设施域名 (关键字无法覆盖，必须保留)
+DOMAIN-SUFFIX,1e100.net
+DOMAIN-SUFFIX,ggpht.com
+DOMAIN-SUFFIX,ggpht.cn
+DOMAIN-SUFFIX,gvt0.com
+DOMAIN-SUFFIX,gvt1.com
+DOMAIN-SUFFIX,gvt1-cn.com
+DOMAIN-SUFFIX,gvt2.com
+DOMAIN-SUFFIX,gvt2-cn.com
+DOMAIN-SUFFIX,gvt3.com
+DOMAIN-SUFFIX,gvt5.com
+DOMAIN-SUFFIX,gvt6.com
+DOMAIN-SUFFIX,gvt7.com
+DOMAIN-SUFFIX,gvt9.com
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,googlevideo.com
+# 3. Google 收购/旗下产品 (不含 google 关键字)
+DOMAIN-SUFFIX,android.com
+DOMAIN-SUFFIX,androidify.com
+DOMAIN-SUFFIX,androidtv.com
+DOMAIN-SUFFIX,chrome.com
+DOMAIN-SUFFIX,chromebook.com
+DOMAIN-SUFFIX,chromecast.com
+DOMAIN-SUFFIX,chromium.org
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,kaggle.com
+DOMAIN-SUFFIX,nest.com
+DOMAIN-SUFFIX,panoramio.com
+DOMAIN-SUFFIX,picasa.com
+DOMAIN-SUFFIX,verily.com
+DOMAIN-SUFFIX,waymo.com
+DOMAIN-SUFFIX,waze.com
+# 4. Google 开发者/开源平台
+DOMAIN-SUFFIX,dart.dev
+DOMAIN-SUFFIX,dartlang.org
+DOMAIN-SUFFIX,flutter.dev
+DOMAIN-SUFFIX,tensorflow.org
+DOMAIN-SUFFIX,webrtc.org
+# 5. Google 短链接/工具域名
+DOMAIN-SUFFIX,g.cn
+DOMAIN-SUFFIX,g.co
+DOMAIN-SUFFIX,goo.gl
+DOMAIN-SUFFIX,page.link
+# 6. Google 广告/追踪域名 (不含 google 关键字，如需去广告可删除本组)
+DOMAIN-SUFFIX,2mdn-cn.net
+DOMAIN-SUFFIX,2mdn.net
+DOMAIN-SUFFIX,admob-cn.com
+DOMAIN-SUFFIX,admob.com
+DOMAIN-SUFFIX,adsense.com
+DOMAIN-SUFFIX,adwords.com
+DOMAIN-SUFFIX,doubleclick-cn.net
+DOMAIN-SUFFIX,doubleclick.com
+DOMAIN-SUFFIX,doubleclick.net
+# 7. 其他 Google 必要服务
+DOMAIN-SUFFIX,blogger.com
+DOMAIN-SUFFIX,feedburner.com
+DOMAIN-SUFFIX,firebaseapp.com
+DOMAIN-SUFFIX,firebaseio.com
+DOMAIN-SUFFIX,schema.org
+DOMAIN-SUFFIX,withgoogle.com
+DOMAIN-SUFFIX,x.company
+# 8. .goog / .gle 等特殊后缀 (不含 google 关键字)
+DOMAIN-SUFFIX,blog.google
+DOMAIN-SUFFIX,c.gle
+DOMAIN-SUFFIX,chat.gle
+DOMAIN-SUFFIX,ok.gle
+DOMAIN-SUFFIX,pki.goog
+DOMAIN-SUFFIX,registry.google
+# 9. IP-CIDR 规则 (原封保留)
+IP-CIDR,172.110.32.0/21,no-resolve
+IP-CIDR,173.194.0.0/16,no-resolve
+IP-CIDR,216.73.80.0/20,no-resolve
+IP-CIDR,2620:120:e000::/40,no-resolve
+IP-CIDR,74.125.0.0/16,no-resolve
+# 10. User-Agent 规则 (去重合并)
+USER-AGENT,%E4%BA%91%E7%AB%AF%E7%A1%AC%E7%9B%98*
+USER-AGENT,*com.google.Drive*
+USER-AGENT,Google.Drive*
+USER-AGENT,*YouTubeMusic*
+USER-AGENT,*com.google.ios.youtubemusic*
+USER-AGENT,*youtube*
+USER-AGENT,YouTube*
+USER-AGENT,com.google.ios.youtube*
