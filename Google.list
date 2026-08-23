@@ -1,6 +1,6 @@
 # NAME: Google + YouTube
 # 覆盖原规则所有域名、IP、User-Agent
-# ===== 关键字规则 (覆盖绝大多数域名) =====
+# ===== 关键字规则 =====
 HOST-KEYWORD,google,Google
 HOST-KEYWORD,youtube,Google
 HOST-KEYWORD,blogspot,Google
