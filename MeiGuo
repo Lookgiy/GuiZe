@@ -209,6 +209,12 @@ DOMAIN-SUFFIX,now.amagi.tv
 DOMAIN-SUFFIX,encoretvb-faecb.firebaseapp.com
 DOMAIN-SUFFIX,akamai.tvb.com
 
+#播客
+DOMAIN-SUFFIX,firstory.me
+
+#广播
+DOMAIN-SUFFIX,revma.com
+
 #MissAV
 DOMAIN-KEYWORD,missav
 DOMAIN-SUFFIX,fourhoi.com
