@@ -49,3 +49,9 @@ DOMAIN-SUFFIX,images.ctfassets.net
 DOMAIN-SUFFIX,cscript-cdn-irl.cassiecloud.com
 DOMAIN-SUFFIX,license.theoplayer.com
 USER-AGENT,ITV_Player*
+
+# NAME: channel4
+DOMAIN-SUFFIX,channel4.com
+DOMAIN-SUFFIX,c4assets.com
+DOMAIN-SUFFIX,snippet.maze.co
+DOMAIN-SUFFIX,cdn.optimizely.com
