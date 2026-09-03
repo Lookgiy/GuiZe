@@ -1,10 +1,4 @@
 #英国
-#广播
-DOMAIN-SUFFIX,revma.com
-
-#播客
-DOMAIN-SUFFIX,firstory.me
-
 #BBC
 DOMAIN,aod-dash-uk-live.akamaized.net
 DOMAIN,aod-hls-uk-live.akamaized.net
@@ -49,10 +43,3 @@ DOMAIN-SUFFIX,images.ctfassets.net
 DOMAIN-SUFFIX,cscript-cdn-irl.cassiecloud.com
 DOMAIN-SUFFIX,license.theoplayer.com
 USER-AGENT,ITV_Player*
-
-# NAME: channel4
-DOMAIN-SUFFIX,channel4.com
-DOMAIN-SUFFIX,c4assets.com
-DOMAIN-SUFFIX,snippet.maze.co
-DOMAIN-SUFFIX,cdn.optimizely.com
-DOMAIN-SUFFIX,bln1.yospace.com
