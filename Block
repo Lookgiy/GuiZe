@@ -1,0 +1,10 @@
+#pcdn
+DOMAIN-SUFFIX,mcdn.bilivideo.cn,REJECT
+DOMAIN-SUFFIX,v1d.szbdyd.com,REJECT
+DOMAIN-SUFFIX,szbdyd.com,REJECT
+DOMAIN-SUFFIX,httpdns.bilivideo.com,REJECT
+DOMAIN-SUFFIX,onethingpcs.com,REJECT
+DOMAIN-SUFFIX,xycdn.com,REJECT
+DOMAIN-SUFFIX,xycloud.com,REJECT
+DOMAIN-SUFFIX,hcdn.video.qq.com,REJECT
+DOMAIN-SUFFIX,pcdn.video.qq.com,REJECT
