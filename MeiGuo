@@ -166,6 +166,13 @@ DOMAIN-SUFFIX,spankbang.com
 DOMAIN-SUFFIX,spankbang.party
 DOMAIN-KEYWORD,pspankbang
 
+# NAME: Xhamster
+DOMAIN-SUFFIX,xhamster.com
+DOMAIN-SUFFIX,xhpingcdn.com
+DOMAIN-SUFFIX,xhcdn.com
+DOMAIN-SUFFIX,flixcdn.com
+DOMAIN-KEYWORD,xhamster
+
 # NAME: TubiTV
 DOMAIN-SUFFIX,tubi.io
 DOMAIN-SUFFIX,tubi.tv
