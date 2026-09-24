@@ -1,11 +1,5 @@
 #美国
 # NAME: Google + YouTube
-DOMAIN-KEYWORD,google
-DOMAIN-KEYWORD,youtube
-DOMAIN-KEYWORD,blogspot
-DOMAIN-KEYWORD,gmail
-DOMAIN-KEYWORD,appspot
-DOMAIN-KEYWORD,recaptcha
 DOMAIN-SUFFIX,1e100.net
 DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,ggpht.cn
@@ -68,6 +62,13 @@ DOMAIN-SUFFIX,chat.gle
 DOMAIN-SUFFIX,ok.gle
 DOMAIN-SUFFIX,pki.goog
 DOMAIN-SUFFIX,registry.google
+DOMAIN-SUFFIX,fonts.gstatic.com
+DOMAIN-KEYWORD,google
+DOMAIN-KEYWORD,youtube
+DOMAIN-KEYWORD,blogspot
+DOMAIN-KEYWORD,gmail
+DOMAIN-KEYWORD,appspot
+DOMAIN-KEYWORD,recaptcha
 IP-CIDR,172.110.32.0/21,no-resolve
 IP-CIDR,173.194.0.0/16,no-resolve
 IP-CIDR,216.73.80.0/20,no-resolve
