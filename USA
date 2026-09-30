@@ -1,5 +1,7 @@
 #美国
 # NAME: Google + YouTube
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,1e100.net
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,android.com
