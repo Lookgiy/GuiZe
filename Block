@@ -1,4 +1,4 @@
-# pcdn
+# PCDN
 DOMAIN-SUFFIX,88cdn.com
 DOMAIN-SUFFIX,gjfzpt.cn
 DOMAIN-SUFFIX,szbdyd.com
@@ -34,7 +34,7 @@ DOMAIN-SUFFIX,p2pupdate.gamedl.qq.com
 DOMAIN-SUFFIX,p2pupgrade.gamedl.qq.com
 DOMAIN-SUFFIX,p2pvod-ws.douyucdn.cn
 
-# HTTPDNS
+# HTTP-DNS
 DOMAIN-SUFFIX,dns.jd.com
 DOMAIN-SUFFIX,dns.weibo.cn
 DOMAIN-SUFFIX,dns.weixin.qq.com
