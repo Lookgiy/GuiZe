@@ -60,6 +60,7 @@ DOMAIN-SUFFIX,twitch-ext.rootonline.de
 DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,twitchcdn.net
 DOMAIN-SUFFIX,twitchsvc.net
+DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-KEYWORD,ttvnw
 
 # NAME: Telegram
