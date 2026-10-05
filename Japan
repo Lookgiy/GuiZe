@@ -34,8 +34,6 @@ DOMAIN-SUFFIX,tv.dmm.com
 DOMAIN-SUFFIX,pics.dmm.co.jp
 
 #AbemaTV
-USER-AGENT,AbemaTV*
-DOMAIN-KEYWORD,abema
 DOMAIN-SUFFIX,abema-tv.com
 DOMAIN-SUFFIX,abema.io
 DOMAIN-SUFFIX,abema.tv
@@ -50,13 +48,13 @@ DOMAIN-SUFFIX,dokusho-ojikan.jp
 DOMAIN-SUFFIX,hayabusa.dev
 DOMAIN-SUFFIX,hayabusa.io
 DOMAIN-SUFFIX,hayabusa.media
+DOMAIN-SUFFIX,incolumitas.com
 DOMAIN-SUFFIX,winticket.jp
-#AbemaTV CDN
 DOMAIN-SUFFIX,abematv.akamaized.net
-DOMAIN-SUFFIX,d1otoma47x30pg.cloudfront.net
-DOMAIN-SUFFIX,d2wy8f7a9ursnm.cloudfront.net
 DOMAIN-SUFFIX,ds-linear-abematv.akamaized.net
 DOMAIN-SUFFIX,ds-vod-abematv.akamaized.net
 DOMAIN-SUFFIX,linear-abematv.akamaized.net
 DOMAIN-SUFFIX,vod-abematv.akamaized.net
-DOMAIN-SUFFIX,realtime.p-c4-x.abema-tv.com
+DOMAIN-SUFFIX,d1otoma47x30pg.cloudfront.net
+DOMAIN-SUFFIX,d2wy8f7a9ursnm.cloudfront.net
+DOMAIN-KEYWORD,abema
