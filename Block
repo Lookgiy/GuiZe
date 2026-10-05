@@ -57,3 +57,28 @@ DOMAIN-SUFFIX,httpdns.yunxindns.com
 DOMAIN-SUFFIX,httpsdns.baidu.com
 DOMAIN-SUFFIX,lofter.httpdns.c.163.com
 DOMAIN-SUFFIX,music.httpdns.c.163.com
+
+# APPLE
+# 系统遥测与诊断
+DOMAIN-SUFFIX,xp.apple.com
+DOMAIN-SUFFIX,xp-cdn.apple.com
+DOMAIN-SUFFIX,diagassets.apple.com
+DOMAIN-SUFFIX,securemetrics.apple.com
+DOMAIN-SUFFIX,cstat.apple.com
+DOMAIN-SUFFIX,fbs.smoot.apple.com
+# 内容缓存注册
+DOMAIN-SUFFIX,lcdn-registration.apple.com
+DOMAIN-SUFFIX,lcdn-locator.apple.com
+DOMAIN-SUFFIX,suconfig.apple.com
+DOMAIN-SUFFIX,serverstatus.apple.com
+# Beta 与反馈
+DOMAIN-SUFFIX,bpapi.apple.com
+DOMAIN-SUFFIX,cssubmissions.apple.com
+DOMAIN-SUFFIX,fba.apple.com
+# iCloud 服务
+DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,icloud-content.com
+DOMAIN-SUFFIX,gateway.icloud.com
+# Siri / 搜索
+DOMAIN-SUFFIX,guzzoni.apple.com
+DOMAIN-SUFFIX,smoot.apple.com
