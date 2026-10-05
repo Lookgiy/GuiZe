@@ -14,6 +14,9 @@ DOMAIN-SUFFIX,com.tw
 DOMAIN-SUFFIX,org.tw
 DOMAIN-SUFFIX,net.tw
 
+#Yahoo
+DOMAIN-SUFFIX,yvpub-bucket001-west.flvcdn.net
+
 #TVers
 DOMAIN-SUFFIX,tver.jp
 DOMAIN-SUFFIX,firebaseinstallations.googleapis.com
@@ -32,6 +35,8 @@ DOMAIN-SUFFIX,navismithapis.com
 DOMAIN-SUFFIX,p-smith.com
 DOMAIN-SUFFIX,tv.dmm.com
 DOMAIN-SUFFIX,pics.dmm.co.jp
+DOMAIN-SUFFIX,dmm-extension.com
+DOMAIN-SUFFIX,prd.136-68-148-85.sslip.io
 
 #AbemaTV
 DOMAIN-SUFFIX,abema-tv.com
