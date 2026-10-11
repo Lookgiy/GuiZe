@@ -155,6 +155,7 @@ DOMAIN-SUFFIX,s0.2mdn.net
 
 # NAME: ALJA TV
 DOMAIN-SUFFIX,live-hls-web-aje-gcp.thehlive.com
+DOMAIN-SUFFIX,ajmn-aje-vod.akamaized.net
 
 # NAME: TVB
 DOMAIN-SUFFIX,boltdns.net
