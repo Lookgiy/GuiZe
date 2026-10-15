@@ -151,6 +151,7 @@ DOMAIN-SUFFIX,tags.tiqcdn.com
 # NAME: plex
 DOMAIN-SUFFIX,plex.tv
 DOMAIN-SUFFIX,plex.wurl.tv
+DOMAIN-SUFFIX,wurl.com
 DOMAIN-SUFFIX,plexvideos.com
 DOMAIN-KEYWORD,plex
 
