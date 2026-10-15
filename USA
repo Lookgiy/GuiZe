@@ -148,6 +148,12 @@ DOMAIN-SUFFIX,paramount.com
 DOMAIN-KEYWORD,pluto
 DOMAIN-SUFFIX,tags.tiqcdn.com
 
+# NAME: plex
+DOMAIN-SUFFIX,plex.tv
+DOMAIN-SUFFIX,plex.wurl.tv
+DOMAIN-SUFFIX,plexvideos.com
+DOMAIN-KEYWORD,plex
+
 # NAME: MBC TV
 DOMAIN-SUFFIX,shd-gcp-live.edgenextcdn.net
 DOMAIN-SUFFIX,shahid.mbc.net
