@@ -86,6 +86,7 @@ DOMAIN-KEYWORD,nicegram
 IP-CIDR,109.239.140.0/24,no-resolve
 IP-CIDR,139.59.210.0/32,no-resolve
 IP-CIDR,149.154.160.0/20,no-resolve
+IP-CIDR,149.154.165.0/20,no-resolve
 IP-CIDR,196.55.216.0/32,no-resolve
 IP-CIDR,5.28.192.0/18,no-resolve
 IP-CIDR,91.108.0.0/16,no-resolve
@@ -226,9 +227,9 @@ DOMAIN-SUFFIX,91pinse.com
 DOMAIN-SUFFIX,fplayer.cc
 DOMAIN-SUFFIX,jfly.xyz
 
-# NAME: Nikkei
+#Nikkei
 DOMAIN-KEYWORD,nikkei
 
-# NAME: 91Porn
+#91Porn
 DOMAIN-SUFFIX,la.btc620.com
 DOMAIN-SUFFIX,rsc.cdn77.org
