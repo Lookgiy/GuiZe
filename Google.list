@@ -355,6 +355,7 @@ HOST-SUFFIX,chat.gle,Google
 HOST-SUFFIX,hey.gle,Google
 HOST-SUFFIX,ok.gle,Google
 HOST-SUFFIX,registry.google,Google
+HOST-SUFFIX,gstatic.com,Google
 # ===== IP-CIDR 规则 (去重合并) =====
 IP-CIDR,172.110.32.0/21,Google
 IP-CIDR,173.194.0.0/16,Google
