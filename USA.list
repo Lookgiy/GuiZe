@@ -8,6 +8,7 @@ HOST-SUFFIX,twitch-ext.rootonline.de,美国
 HOST-SUFFIX,twitch.tv,美国
 HOST-SUFFIX,twitchcdn.net,美国
 HOST-SUFFIX,twitchsvc.net,美国
+HOST-SUFFIX,cloudfront.net,美国
 HOST-KEYWORD,ttvnw,美国
 
 # NAME: Telegram
@@ -36,11 +37,16 @@ HOST-SUFFIX,tg.dev,美国
 HOST-SUFFIX,tx.me,美国
 HOST-SUFFIX,usercontent.dev,美国
 HOST-KEYWORD,nicegram,美国
+HOST-KEYWORD,telegram,美国
+HOST-KEYWORD,telegra,美国
+HOST-KEYWORD,telega,美国
+HOST-KEYWORD,telesco,美国
 IP-CIDR,109.239.140.0/24,美国
 IP-CIDR,139.59.210.0/32,美国
 IP-CIDR,149.154.160.0/20,美国
 IP-CIDR,149.154.168.0/22,美国
 IP-CIDR,149.154.175.0/20,美国
+IP-CIDR,149.154.165.0/20,美国
 IP-CIDR,196.55.216.0/32,美国
 IP-CIDR,5.28.192.0/18,美国
 IP-CIDR,91.108.0.0/16,美国
@@ -82,7 +88,7 @@ HOST-SUFFIX,tubi.io,美国
 HOST-SUFFIX,tubi.tv,美国
 HOST-SUFFIX,tubi.video,美国
 HOST-SUFFIX,tubitv.com,美国
-HOST-SUFFIX,stats.g.doubleclick.net,美国
+HOST-KEYWORD,stats.g.doubleclick.net,美国
 HOST-KEYWORD,tubi,美国
 
 # NAME: plutoTV
@@ -94,6 +100,13 @@ HOST-SUFFIX,tags.tiqcdn.com,美国
 HOST-KEYWORD,pluto,美国
 HOST-KEYWORD,plutotv,美国
 
+# NAME: plex
+HOST-SUFFIX,plex.tv,美国
+HOST-SUFFIX,plex.wurl.tv,美国
+HOST-SUFFIX,wurl.com,美国
+HOST-SUFFIX,plexvideos.com,美国
+HOST-KEYWORD,plex,美国
+
 # NAME: MBC TV
 HOST-SUFFIX,shd-gcp-live.edgenextcdn.net,美国
 HOST-SUFFIX,shahid.mbc.net,美国
@@ -101,25 +114,27 @@ HOST-SUFFIX,s0.2mdn.net,美国
 
 # NAME: ALJA TV
 HOST-SUFFIX,live-hls-web-aje-gcp.thehlive.com,美国
+HOST-SUFFIX,ajmn-aje-vod.akamaized.net,美国
 
 # NAME: TVB
-HOST-SUFFIX,cf-images.us-east-1.prod.boltdns.net,美国
+HOST-SUFFIX,boltdns.net,美国
 HOST-SUFFIX,chimpstatic.com,美国
 HOST-SUFFIX,d37d56ysvky6vg.cloudfront.net,美国
-HOST-SUFFIX,edge.api.brightcove.com,美国
-HOST-SUFFIX,house-fastly-signed-us-east-1-prod.brightcovecdn.com,美国
+HOST-SUFFIX,brightcove.com,美国
+HOST-SUFFIX,brightcovecdn.com,美国
+HOST-SUFFIX,brightcove.net,美国
 HOST-SUFFIX,tvbaw.com,美国
-HOST-SUFFIX,manifest.prod.boltdns.net,美国
-HOST-SUFFIX,maxcdn.bootstrapcdn.com,美国
-HOST-SUFFIX,players.brightcove.net,美国
-HOST-SUFFIX,pmv4k0zsuc.execute-api.us-west-2.amazonaws.com,美国
-HOST-SUFFIX,s3-us-west-1.amazonaws.com,美国
+HOST-SUFFIX,bootstrapcdn.com,美国
 HOST-SUFFIX,tvbanywherena.com,美国
-HOST-SUFFIX,tvbaw-cdn77.s3.us-west-2.amazonaws.com,美国
-HOST-SUFFIX,tvbaw-na.s3.us-west-1.amazonaws.com,美国
 HOST-SUFFIX,now.amagi.tv,美国
 HOST-SUFFIX,encoretvb-faecb.firebaseapp.com,美国
 HOST-SUFFIX,akamai.tvb.com,美国
+
+#播客
+HOST-SUFFIX,firstory.me,美国
+
+#广播
+HOST-SUFFIX,revma.com,美国
 
 #MissAV
 HOST-KEYWORD,missav,美国
@@ -129,6 +144,7 @@ HOST-SUFFIX,plyr.io,美国
 HOST-SUFFIX,recombee.com,美国
 HOST-SUFFIX,cdnjs.cloudflare.com,美国
 HOST-SUFFIX,surrit.com,美国
+HOST-SUFFIX,cdn.tsyndicate.com,美国
 
 #jable
 HOST-SUFFIX,jable.tv,美国
@@ -138,9 +154,7 @@ HOST-SUFFIX,alonestreaming.com,美国
 
 #Linux Do
 HOST-SUFFIX,linux.do,美国
-HOST-SUFFIX,cdn.ldstatic.com,美国
-HOST-SUFFIX,cdn3.ldstatic.com,美国
-HOST-SUFFIX,ping.ldstatic.com,美国
+HOST-SUFFIX,ldstatic.com,美国
 HOST-SUFFIX,stripe.com,美国
 HOST-SUFFIX,stripe.network,美国
 
@@ -153,6 +167,8 @@ HOST-SUFFIX,sehuatang.org,美国
 HOST-SUFFIX,ldkms.la,美国
 HOST-SUFFIX,j03og.app,美国
 HOST-SUFFIX,ymawv.la,美国
+HOST-SUFFIX,tu.djhdhs.us,美国
+HOST-SUFFIX,tu.j03og.cc,美国
 
 #rou
 HOST-SUFFIX,rou.video,美国
@@ -160,13 +176,11 @@ HOST-SUFFIX,rou.video,美国
 #91pinse
 HOST-SUFFIX,fplayer.cc,美国
 HOST-SUFFIX,jfly.xyz,美国
-
-#JavLibray
-HOST-SUFFIX,pics.dmm.co.jp,美国
+HOST-SUFFIX,fplayer.cc,美国
 
 # NAME: Nikkei
 HOST-KEYWORD,nikkei,美国
-HOST-SUFFIX,nikkei.co.jp,美国
-HOST-SUFFIX,nikkei.com,美国
-HOST-SUFFIX,nikkei.jp,美国
-HOST-SUFFIX,cn.nikkei.com,美国
+
+#91Porn
+HOST-SUFFIX,la.btc620.com,美国
+HOST-SUFFIX,rsc.cdn77.org,美国
