@@ -1,0 +1,84 @@
+# PCDN
+HOST-SUFFIX,88cdn.com,REJECT
+HOST-SUFFIX,gjfzpt.cn,REJECT
+HOST-SUFFIX,szbdyd.com,REJECT
+HOST-SUFFIX,bsccdn.net,REJECT
+HOST-SUFFIX,pkoplink.com,REJECT
+HOST-SUFFIX,saxysec.com,REJECT
+HOST-SUFFIX,uhabo.com,REJECT
+HOST-SUFFIX,xycdn.com,REJECT
+HOST-SUFFIX,kuiniuca.com,REJECT
+HOST-SUFFIX,onethingpcs.com,REJECT
+HOST-SUFFIX,jomodns.cn,REJECT
+HOST-SUFFIX,p2p.huya.com,REJECT
+HOST-SUFFIX,stun.douyucdn.cn,REJECT
+HOST-SUFFIX,stun.hitv.com,REJECT
+HOST-SUFFIX,stun1.douyucdn.cn,REJECT
+HOST-SUFFIX,mcdn.bilivideo.cn,REJECT
+HOST-SUFFIX,tpa-hcdn.iqiyi.com,REJECT
+HOST-SUFFIX,pcdn.xmcdn.com,REJECT
+HOST-SUFFIX,pcdn.yximgs.com,REJECT
+HOST-SUFFIX,dyp2p-ali.douyucdn.cn,REJECT
+HOST-SUFFIX,dyp2p-hw.douyucdn.cn,REJECT
+HOST-SUFFIX,p2p-ali.douyucdn.cn,REJECT
+HOST-SUFFIX,p2p.qq.com,REJECT
+HOST-SUFFIX,p2pchunk-hw.douyucdn.cn,REJECT
+HOST-SUFFIX,p2pchunk-table.douyucdn.cn,REJECT
+HOST-SUFFIX,p2pchunk-ws.douyucdn.cn,REJECT
+HOST-SUFFIX,p2perrorlog.douyucdn.cn,REJECT
+HOST-SUFFIX,p2plive-ali.douyucdn.cn,REJECT
+HOST-SUFFIX,p2plive-ws.douyucdn.cn,REJECT
+HOST-SUFFIX,p2plog.douyucdn.cn,REJECT
+HOST-SUFFIX,p2ptun.qq.com,REJECT
+HOST-SUFFIX,p2pupdate.gamedl.qq.com,REJECT
+HOST-SUFFIX,p2pupgrade.gamedl.qq.com,REJECT
+HOST-SUFFIX,p2pvod-ws.douyucdn.cn,REJECT
+
+# HTTP-DNS
+HOST-SUFFIX,dns.jd.com,REJECT
+HOST-SUFFIX,dns.weibo.cn,REJECT
+HOST-SUFFIX,dns.weixin.qq.com,REJECT
+HOST-SUFFIX,dns.weixin.qq.com.cn,REJECT
+HOST-SUFFIX,httpdns-api.aliyuncs.com,REJECT
+HOST-SUFFIX,httpdns-sc.aliyuncs.com,REJECT
+HOST-SUFFIX,httpdns.alicdn.com,REJECT
+HOST-SUFFIX,httpdns.baidu.com,REJECT
+HOST-SUFFIX,httpdns.baidubce.com,REJECT
+HOST-SUFFIX,httpdns.bilivideo.com,REJECT
+HOST-SUFFIX,httpdns.c.cdnhwc2.com,REJECT
+HOST-SUFFIX,httpdns.calorietech.com,REJECT
+HOST-SUFFIX,httpdns.meituan.com,REJECT
+HOST-SUFFIX,httpdns.music.163.com,REJECT
+HOST-SUFFIX,httpdns.n.netease.com,REJECT
+HOST-SUFFIX,httpdns.pro,REJECT
+HOST-SUFFIX,httpdns.push.oppomobile.com,REJECT
+HOST-SUFFIX,httpdns.volcengineapi.com,REJECT
+HOST-SUFFIX,httpdns.yunxindns.com,REJECT
+HOST-SUFFIX,httpsdns.baidu.com,REJECT
+HOST-SUFFIX,lofter.httpdns.c.163.com,REJECT
+HOST-SUFFIX,music.httpdns.c.163.com,REJECT
+
+# APPLE
+# 系统遥测与诊断
+HOST-SUFFIX,xp.apple.com,REJECT
+HOST-SUFFIX,xp-cdn.apple.com,REJECT
+HOST-SUFFIX,diagassets.apple.com,REJECT
+HOST-SUFFIX,securemetrics.apple.com,REJECT
+HOST-SUFFIX,cstat.apple.com,REJECT
+HOST-SUFFIX,fbs.smoot.apple.com,REJECT
+# 内容缓存注册
+HOST-SUFFIX,lcdn-registration.apple.com,REJECT
+HOST-SUFFIX,lcdn-locator.apple.com,REJECT
+HOST-SUFFIX,suconfig.apple.com,REJECT
+HOST-SUFFIX,serverstatus.apple.com,REJECT
+# Beta 与反馈
+HOST-SUFFIX,bpapi.apple.com,REJECT
+HOST-SUFFIX,cssubmissions.apple.com,REJECT
+HOST-SUFFIX,fba.apple.com,REJECT
+# iCloud 服务
+HOST-SUFFIX,icloud.com,REJECT
+HOST-SUFFIX,icloud-content.com,REJECT
+HOST-SUFFIX,gateway.icloud.com,REJECT
+# Siri / 搜索
+HOST-SUFFIX,guzzoni.apple.com,REJECT
+HOST-SUFFIX,smoot.apple.com,REJECT
