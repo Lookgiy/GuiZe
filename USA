@@ -206,6 +206,7 @@ DOMAIN-SUFFIX,linux.do
 DOMAIN-SUFFIX,ldstatic.com
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,stripe.network
+DOMAIN-SUFFIX,i1.hdslb.com
 
 #V2ex
 DOMAIN-SUFFIX,v2ex.com
